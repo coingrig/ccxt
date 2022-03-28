@@ -1,5 +1,7 @@
 'use strict'
 
+const BigInt = require('big-integer');
+
 const zero = BigInt (0)
 const minusOne = BigInt (-1)
 const base = BigInt (10)
